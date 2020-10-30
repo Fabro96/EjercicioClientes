@@ -1,4 +1,6 @@
 ﻿using System;
+using EjercicioClientes.Entidades;
+using EjercicioClientes.Negocio;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
